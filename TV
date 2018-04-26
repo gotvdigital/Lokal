@@ -1,0 +1,17 @@
+#EXTM3U
+ 
+#Lokal TV
+#EXTINF:0 channel-id="1" tvg-id="SCTV" group-title="Lokal TV",SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
+#EXTINF:0 channel-id="2" tvg-id="INDOSIAR" group-title="Lokal TV",INDOSIAR
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
+#EXTINF:0 channel-id="3" tvg-id="OCHANNEL" group-title="Lokal TV",OCHANNEL
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+#EXTINF:0 channel-id="4" tvg-id="RCTI" group-title="Lokal TV",RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
+#EXTINF:0 channel-id="5" tvg-id="TRANS7" group-title="Lokal TV",TRANS7 
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+#EXTINF:0 channel-id="6" tvg-id="GLOBAL" group-title="Lokal TV",GLOBAL 
+https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/master.m3u8
+#EXTINF:0 channel-id="7" tvg-id="METROTV" group-title="Lokal TV",METROTV 
+https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/master.m3u8
